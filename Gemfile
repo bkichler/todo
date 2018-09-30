@@ -66,3 +66,7 @@ group :development, :test do
 end
 
 gem 'jquery-rails'
+
+# Page-specific JS
+
+gem 'paloma', '~> 5.1.0'
